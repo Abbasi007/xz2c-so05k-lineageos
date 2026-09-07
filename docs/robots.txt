@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abbasi007.github.io/xz2c-so05k-lineageos/sitemap.xml
